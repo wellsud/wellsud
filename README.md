@@ -1,5 +1,5 @@
 <center>
-  <img src="[link_da_imagem](https://drive.google.com/file/d/1CdNswHCa8cBNJG0fute4TecnOOdP7MKZ/view?usp=share_link)" >
+  <img src="CoverGithub.png" >
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsud&hide=html&layout=compact&theme=buefy" /></td>
